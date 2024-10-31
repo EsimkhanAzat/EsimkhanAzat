@@ -1,1 +1,1 @@
-echo "# My Commit Repo" > README.md
+"# My Commit Repo" 
